@@ -1,2 +1,1 @@
-UI design Projects
-Internship <CodSoft>
+UI design Internship Projects
